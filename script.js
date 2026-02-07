@@ -34,7 +34,7 @@ function myMenuFunction(){
 /* ----- TYPING EFFECT ----- */
  let typingEffect = new Typed(".typedText",{
     // strings : ["Developer","Trainer","Mentor"],
-    strings : ["Professional","Odoo Developer","ServiceNow Developer"],
+    strings : ["Application Developer","Odoo Developer","ServiceNow Developer"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
